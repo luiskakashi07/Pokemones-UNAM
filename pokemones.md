@@ -7,8 +7,8 @@
 
 ![image]( https://static.wikia.nocookie.net/espokemon/images/5/50/Darkrai.png/revision/latest?cb=20150214164357)
 
-
 [Miguel Reyes](https://github.com/MiguelReyesHer)
+
 ![image](https://user-images.githubusercontent.com/88996723/132058341-cfa52866-63e8-4289-849c-5feacf2bc431.png)
 
 [Rafael](https://github.com/David-Lazaro-Fernandez) 
@@ -22,4 +22,8 @@
 [Antonio R.M.](https://github.com/AnthonRM) 
 
 ![image](https://assets.pokemon.com/assets/cms2/img/pokedex/full/197.png)
+
+[RamosJosue](https://github.com/JosueRG26) 
+
+![image](https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png)
 
