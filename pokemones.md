@@ -30,3 +30,7 @@
 [RamosJosue](https://github.com/JosueRG26) 
 
 ![image](https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png)
+
+[luis ortigoza](https://github.com/MiguelReyesHer)
+
+![ imagen](https://user-images.githubusercontent.com/88996723/132058341-cfa52866-63e8-4289-849c-5feacf2bc431.png)
